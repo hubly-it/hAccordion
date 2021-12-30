@@ -1,0 +1,16 @@
+{
+  "global" : false,
+  "host_template_types" : [ "PAGE" ],
+  "module_id" : 62887511828,
+  "css_assets" : [ {
+    "url" : "https://fs.hubspotusercontent00.net/hubfs/5080604/Hubly/bootstrap.min.css",
+    "autoload" : true,
+    "name" : "bootstrap.min.css"
+  } ],
+  "js_assets" : [ {
+    "url" : "https://fs.hubspotusercontent00.net/hubfs/5080604/Hubly/bootstrap.bundle.min.js",
+    "autoload" : true,
+    "name" : "bootstrap.bundle.min.js"
+  } ],
+  "is_available_for_new_content" : true
+}
